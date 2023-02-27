@@ -8,10 +8,10 @@ main:
 #     url: /teaching/    
     
   - title: "Coursework"
-    url: /portfolio/
+    url: /coursework/
         
   - title: "Project"
-    url: /year-archive/
+    url: /project/
     
   - title: "CV"
     url: /cv/
