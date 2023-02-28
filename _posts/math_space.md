@@ -1,7 +1,7 @@
 ---
 title: '[Math] Space - vector space, affine space'
 date: 2023-02-27
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/02/math-space/
 tags:
   - math
 ---
@@ -69,7 +69,5 @@ Affine spaces are used in many areas of mathematics and science, including geome
 ## Reference
 
 [vector space](https://mathworld.wolfram.com/VectorSpace.html)
-
 [affine space](https://luv-n-interest.tistory.com/806)
-
 [affine translation + affine space by hong](https://www.youtube.com/watch?v=DSmXIYkp024)
