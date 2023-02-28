@@ -1,5 +1,5 @@
 ---
-title: '[Math] Space - vector space, affine space'
+title: '[Math] Space - vector space, affine space2'
 date: 2023-02-27
 permalink: /posts/2023/02/math-space/
 tags:
