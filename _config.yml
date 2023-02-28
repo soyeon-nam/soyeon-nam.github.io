@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : [Soyeon Nam', 'soyeonlnam@gmail.com', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
