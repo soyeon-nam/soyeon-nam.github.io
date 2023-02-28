@@ -10,6 +10,9 @@ main:
   - title: "Coursework"
     url: /coursework/
         
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "Project"
     url: /project/
     
