@@ -1,3 +1,12 @@
+---
+title: '[Math] Space - vector space, affine space'
+date: 2023-02-27
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - math
+---
+
+
 # Space
 
 ---
