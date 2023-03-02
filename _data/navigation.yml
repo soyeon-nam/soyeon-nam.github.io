@@ -10,17 +10,18 @@ main:
   - title: "Coursework"
     url: /coursework/
         
-  - title: "Posts"
-    url: /year-archive/
-    
+
   - title: "Project"
     url: /project/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Posts"
+    url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Publications"
+#     url: /publications/
+    
+#   - title: "Guide"
+#     url: /markdown/
