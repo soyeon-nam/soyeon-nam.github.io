@@ -14,7 +14,7 @@ redirect_from:
 
 ## Hankuk University of Foreign Studies
 
-Operating System 
+**Operating System **
 
 Advanced Python
 
