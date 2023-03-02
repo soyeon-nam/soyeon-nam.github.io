@@ -7,4 +7,7 @@ redirect_from:
   - /coursework
 ---
 
+{% include base_path %}
+
+
 Coursework
