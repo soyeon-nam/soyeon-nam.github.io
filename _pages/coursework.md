@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 <br>
-<br>
-<br>
 
 
 ## Hankuk University of Foreign Studies
 
-### 
+Operating System 
+
+Advanced Python
 
 
 
@@ -24,7 +24,7 @@ redirect_from:
 
 ## University of California, Davis
 
-### Computer Graphics 
+#### Computer Graphics 
 
 
 
