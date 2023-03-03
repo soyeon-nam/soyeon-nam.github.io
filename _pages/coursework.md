@@ -22,7 +22,7 @@ redirect_from:
 
 **Algorithm**
 
-**Computational Thiknking**
+**Computational Thinking**
 
 <br>
 
