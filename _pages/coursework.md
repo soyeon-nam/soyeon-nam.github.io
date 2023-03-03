@@ -11,7 +11,6 @@ redirect_from:
 
 <br>
 
-
 ## Hankuk University of Foreign Studies
 
 **Operating System**
