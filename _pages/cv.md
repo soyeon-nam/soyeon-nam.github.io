@@ -13,8 +13,8 @@ redirect_from:
 ## Education
 * B.S. in AI Convergence, Hankuk University of Foreign Studies, 
 
-Work experience
-======
+<br>
+## Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -25,8 +25,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
+<br>
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -52,6 +52,6 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
+<br>
+## Service and leadership
 * CISV 
