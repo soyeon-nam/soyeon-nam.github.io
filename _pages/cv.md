@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 <br>
-Education
-======
+
+## Education
 * B.S. in AI Convergence, Hankuk University of Foreign Studies, 
 
 Work experience
