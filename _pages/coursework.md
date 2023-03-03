@@ -13,30 +13,30 @@ redirect_from:
 
 ## Hankuk University of Foreign Studies
 
-**Operating System**
+* **Operating System**
 
-**Advanced Python Programming**
+* **Advanced Python Programming**
 
-**Introduction to Computer Logic**
+* **Introduction to Computer Logic**
 
-**Algorithm**
+* **Algorithm**
 
-**Computational Thinking**
+* **Computational Thinking**
 
 <br>
 
 
 ## University of California, Davis
 
-**Computer Graphics**
+* **Computer Graphics**
 
-**Software Development & Object-Oriented Programming in C++**
+* **Software Development & Object-Oriented Programming in C++**
 
-**Probability & Statistical Modeling for Computer Science**
+* **Probability & Statistical Modeling for Computer Science**
 
-**Linear Algebra**
+* **Linear Algebra**
 
-**Discrete Math**
+* **Discrete Math**
 
 <br>
 
@@ -44,8 +44,8 @@ redirect_from:
 ## Texas State University
 
  
-**Intro to Machine Learning**
+* **Intro to Machine Learning**
 
-**Introduction to Database Systems**
+* **Introduction to Database Systems**
 
-**Object-Oriented Design and Programming**
+* **Object-Oriented Design and Programming**
