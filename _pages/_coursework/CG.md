@@ -1,4 +1,13 @@
-# ECS175 Introduction to Computer Graphics
+---
+# layout: archive
+title: "ECS175 Introduction to Computer Graphics"
+permalink:  /coursework/ECS175/
+redirect_from:
+  - /coursework/ECS175
+---
+
+{% include base_path %}
+<br>
 
 This course acquaints the student with the basic principles and problems of computer graphics, and gives the student the mathematical background to understand and implement these basic principles. It also gives the student the computer science underpinnings of the implementation of a 3D rendering system. 
 
