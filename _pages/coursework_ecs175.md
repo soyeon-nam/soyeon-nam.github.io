@@ -13,7 +13,7 @@ This course acquaints the student with the basic principles and problems of comp
 
 Instructor: [Kwan-Liu Ma](https://www.cs.ucdavis.edu/~ma)
 Teaching Assistant:	David Bauer ([davbauer@ucdavis.edu](mailto:taneuroth@ucdavis.edu))<br>
-                    Yuya Kawakami ([ykawakami@ucdavis.edu](mailto:kawakami@ucdavis.edu))
+                    		Yuya Kawakami ([ykawakami@ucdavis.edu](mailto:kawakami@ucdavis.edu))
 
 
 
@@ -35,22 +35,7 @@ Teaching Assistant:	David Bauer ([davbauer@ucdavis.edu](mailto:taneuroth@ucdavis
 
 
 
-## Textbook
-
-There is no textbook, but you may find the following books helpful. We suggest reading in Book I for the programming assignments, and reading in Book II related to the lectures.
-
-|      | Book                                                         |
-| ---- | ------------------------------------------------------------ |
-| I    | F. Ghayour and D. Cantor, *Real-Time 3D Graphics with WebGL 2: Build interactive 3D applications with JavaScript and WebGL 2 (OpenGL ES 3.0), 2nd Edition*. Packt Publishing, 2018.[Download from UC Davis Library](https://search.library.ucdavis.edu/permalink/01UCD_INST/1hjlc2p/cdi_proquest_ebookcentral_EBC5675779) |
-| II   | Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward Angel and Dave Shreiner, 7th edition, 2015. |
-
- 
-
-## Grading Breakdown
-
-- Assignment (85%)<br>
-  Midterm Exam (15%)<br>
-  Extra Credit - 3D Modeling and Campuswire Participation (5%)			
+## Project	
 
 | Assignment | Content                                               | Percentage |
 | ---------- | ----------------------------------------------------- | ---------- |
@@ -63,8 +48,13 @@ There is no textbook, but you may find the following books helpful. We suggest r
 
 
 
-### **Grading Scheme:**
+## Textbook
 
-| 95%  | 90%  | 85%  | 80%  | 75%  | 70%  | 60%  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| A    | A-   | B+   | B    | B-   | C    | D    |
+There is no textbook, but you may find the following books helpful. We suggest reading in Book I for the programming assignments, and reading in Book II related to the lectures.
+
+|      | Book                                                         |
+| ---- | ------------------------------------------------------------ |
+| I    | F. Ghayour and D. Cantor, *Real-Time 3D Graphics with WebGL 2: Build interactive 3D applications with JavaScript and WebGL 2 (OpenGL ES 3.0), 2nd Edition*. Packt Publishing, 2018.[Download from UC Davis Library](https://search.library.ucdavis.edu/permalink/01UCD_INST/1hjlc2p/cdi_proquest_ebookcentral_EBC5675779) |
+| II   | Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward Angel and Dave Shreiner, 7th edition, 2015. |
+
+ 
