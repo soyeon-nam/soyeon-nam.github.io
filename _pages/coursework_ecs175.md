@@ -49,21 +49,18 @@ Book II: Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward A
 
 ## Grading Breakdown
 
-10%  Assignment 1   Setting up your WebGL Application - Book Ch1 (1 week)
+- Assignment (85%)
+  Midterm Exam (15%)
+  Extra Credit - 3D Modeling and Campuswire Participation (5%)
 
-10%  Assignment 2   Drawing Basic Shapes - Book Ch2 (1 week)
-
-15%  Assignment 3   [3D Matrix Transformations]() - Book Ch4 (1.5 weeks)
-
-15%  Assignment 4   [Drawing 3D Models]() (2 weeks)
-
-20%  Assignment 5   [Shading]() (2 weeks)
-
-15%   Assignment 6   [Textures]() (2.5 weeks)
-
-5%    Extra Credit     3D Modeling and Campuswire Participation
-
-15%  Midterm Exam
+| Assignment | Content                                               | Percentage |
+| ---------- | ----------------------------------------------------- | ---------- |
+| 1          | Setting up your WebGL Application - Book Ch1 (1 week) | 10%        |
+| 2          | Drawing Basic Shapes - Book Ch2 (1 week)              | 10%        |
+| 3          | [3D Matrix Transformations]() - Book Ch4 (1.5 weeks)  | 15%        |
+| 4          | [Drawing 3D Models]() (2 weeks)                       | 15%        |
+| 5          | [Shading]() (2 weeks)                                 | 20%        |
+| 6          | [Textures]() (2.5 weeks)                              | 15%        |
 
 
 
@@ -72,6 +69,3 @@ Book II: Interactive Computer Graphics: A Top-Down Approach with WebGL, Edward A
 | 95%  | 90%  | 85%  | 80%  | 75%  | 70%  | 60%  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | A    | A-   | B+   | B    | B-   | C    | D    |
-
-
-
