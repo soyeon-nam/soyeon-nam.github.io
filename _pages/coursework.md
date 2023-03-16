@@ -28,7 +28,7 @@ redirect_from:
 
 ## University of California, Davis
 
-**Introduction to Computer Graphics**
+* **Introduction to Computer Graphics**
 
 * **Software Development & Object-Oriented Programming in C++**
 
