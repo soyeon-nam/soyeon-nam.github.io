@@ -1,19 +1,14 @@
 ---
-title: '[Math] Space - vector space, affine space2'
+title: '[Math] Space - vector space, affine space'
 date: 2023-02-27
 permalink: /posts/2023/02/math-space/
 tags:
   - math
 ---
 
+<br>
 
 # Space
-
----
-
-[TOC]
-
-
 
 ---
 
@@ -32,15 +27,13 @@ A vector space has the following properties:
 - Every vector has an additive inverse.
 - Scalar multiplication is associative and distributes over vector addition.
 
-
+<br>
 
 #### Additive identity
 
 the number that you can add to any other number without changing its value. This number is typically denoted by the symbol "0".
 
-
-
-
+<br><br>
 
 ## What is Affine Subspace?
 
@@ -64,7 +57,7 @@ Affine spaces are used in many areas of mathematics and science, including geome
 
 
 
-
+<br>
 
 ## Reference
 
