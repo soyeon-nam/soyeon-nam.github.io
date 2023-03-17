@@ -3,7 +3,7 @@
 title: "ECS175 Introduction to Computer Graphics"
 permalink:  /coursework/ecs175/
 redirect_from:
-  - /coursework/ecs175
+  - coursework/ecs175
 ---
 
 {% include base_path %}

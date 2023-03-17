@@ -28,11 +28,11 @@ redirect_from:
 
 ## University of California, Davis
 
-* **Introduction to Computer Graphics** [*syllabus*](https://soyeon-nam.github.io//coursework/ecs175)
+* **Introduction to Computer Graphics**  [*syllabus*](https://soyeon-nam.github.io/coursework/ecs175)
 
-* **Software Development in UNIX and C++ **[*syllabus*](https://soyeon-nam.github.io//coursework/ecs034)
+* **Software Development in UNIX and C++**  [*syllabus*](https://soyeon-nam.github.io//coursework/ecs034)
 
-* **Probability & Statistical Modeling for Computer Science** [*syllabus*](https://soyeon-nam.github.io//coursework/ecs132)
+* **Probability & Statistical Modeling for Computer Science**  [*syllabus*](https://soyeon-nam.github.io//coursework/ecs132)
 
 * **Linear Algebra**
 
@@ -44,7 +44,7 @@ redirect_from:
 ## Texas State University
 
 
-* **Intro to Machine Learning** [*syllabus*](https://soyeon-nam.github.io//coursework/cs4347)
+* **Intro to Machine Learning**  [*syllabus*](https://soyeon-nam.github.io//coursework/cs4347)
 
 * **Introduction to Database Systems**
 

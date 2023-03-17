@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-UNIX Operating system tools and programming environment. Methods for debugging and verification. Principles object-oriented programming in C++.<br>
+<br>UNIX Operating system tools and programming environment. Methods for debugging and verification. Principles object-oriented programming in C++.<br>
 
-Instructor: Christopher Nitta cjnitta@ucdavis.edu <br>Teaching Assistant: Alex Young axyoung@ucdavis.edu 
+Instructor: Christopher Nitta (*cjnitta@ucdavis.edu*) <br>Teaching Assistant: Alex Young (*axyoung@ucdavis.edu*)
 
 <br>
 
@@ -31,12 +31,12 @@ Instructor: Christopher Nitta cjnitta@ucdavis.edu <br>Teaching Assistant: Alex Y
 
 ## Project	
 
-| Assignment | Desired Outcomes                                             | Code     |
-| ---------- | ------------------------------------------------------------ | -------- |
-| 1          | Exposure to using C++ std::string <br>Exposure to GoogleTest • Use of git repository<br>An understanding of how to develop Makefiles that build and execute unit tests <br>An understanding of how to calculate edit distance | [link]() |
-| 2          | Exposure to GoogleTest <br>Exposure to Expat XML library<br/>Use of git repository<br/>An understanding of how to develop Makefiles that build and execute unit tests <br/>An understanding of delimiter-separated-value files <br/>An understanding of XML files<br/>An understanding of how to integrate a third-party C library in C++ | [link]() |
-| 3          | Exposure to GoogleTest <br/>Exposure to Expat XML library<br/>Exposure to Open Street Map file formats<br/>Use of git repository <br/>An understanding of how to develop Makefiles that build and execute unit tests • An understanding of delimiter-separated-value files<br/>An understanding of XML files<br/>An understanding of how to integrate a third-party C library in C++ | [link]() |
-| 4          | Exposure to GoogleTest and Google MockExposure to Expat XML library<br/>Exposure to Open Street Map file formats<br/>Use of git repository<br/>An understanding of how to develop Makefiles that build and execute unit tests<br/>An understanding of delimiter-separated-value files<br/>An understanding of XML files<br/>An understanding of Dijkstra’s Algorithm<br/>An understanding of how to integrate a third-party C library in C++ | [link]() |
+| Project      | Desired Outcomes                                             |
+| ------------ | ------------------------------------------------------------ |
+| [Project1]() | Exposure to using C++ std::string <br>Exposure to GoogleTest • Use of git repository<br>An understanding of how to develop Makefiles that build and execute unit tests <br>An understanding of how to calculate edit distance |
+| [Project2]() | Exposure to GoogleTest <br>Exposure to Expat XML library<br/>Use of git repository<br/>An understanding of how to develop Makefiles that build and execute unit tests <br/>An understanding of delimiter-separated-value files <br/>An understanding of XML files<br/>An understanding of how to integrate a third-party C library in C++ |
+| [Project3]() | Exposure to GoogleTest <br/>Exposure to Expat XML library<br/>Exposure to Open Street Map file formats<br/>Use of git repository <br/>An understanding of how to develop Makefiles that build and execute unit tests • An understanding of delimiter-separated-value files<br/>An understanding of XML files<br/>An understanding of how to integrate a third-party C library in C++ |
+| [Project4]() | Exposure to GoogleTest and Google MockExposure to Expat XML library<br/>Exposure to Open Street Map file formats<br/>Use of git repository<br/>An understanding of how to develop Makefiles that build and execute unit tests<br/>An understanding of delimiter-separated-value files<br/>An understanding of XML files<br/>An understanding of Dijkstra’s Algorithm<br/>An understanding of how to integrate a third-party C library in C++ |
 
 
 
@@ -44,7 +44,9 @@ Instructor: Christopher Nitta cjnitta@ucdavis.edu <br>Teaching Assistant: Alex Y
 
 ## Textbook
 
-- William Shotts, The Linux Command Line 2 nd Edition, No Starch Press, 2019. Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo, C++ Primer Fifth Edition, Addison Wesley, 2013.
+|      | Book                                                         |
+| ---- | ------------------------------------------------------------ |
+| I    | William Shotts, The Linux Command Line 2 nd Edition, No Starch Press, 2019. Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo, C++ Primer Fifth Edition, Addison Wesley, 2013. |
 
 
 
