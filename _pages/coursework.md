@@ -30,9 +30,9 @@ redirect_from:
 
 * **Introduction to Computer Graphics**  [*syllabus*](https://soyeon-nam.github.io/coursework/ecs175)
 
-* **Software Development in UNIX and C++**  [*syllabus*](https://soyeon-nam.github.io//coursework/ecs034)
+* **Software Development in UNIX and C++**  [*syllabus*](https://soyeon-nam.github.io/coursework/ecs034)
 
-* **Probability & Statistical Modeling for Computer Science**  [*syllabus*](https://soyeon-nam.github.io//coursework/ecs132)
+* **Probability & Statistical Modeling for Computer Science**  [*syllabus*](https://soyeon-nam.github.io/coursework/ecs132)
 
 * **Linear Algebra**
 

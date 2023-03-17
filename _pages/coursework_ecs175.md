@@ -12,8 +12,7 @@ redirect_from:
 This course acquaints the student with the basic principles and problems of computer graphics, and gives the student the mathematical background to understand and implement these basic principles. It also gives the student the computer science underpinnings of the implementation of a 3D rendering system. 
 
 Instructor: [Kwan-Liu Ma](https://www.cs.ucdavis.edu/~ma)<br>
-Teaching Assistant:	David Bauer ([davbauer@ucdavis.edu](mailto:taneuroth@ucdavis.edu))<br>
-                    		Yuya Kawakami ([ykawakami@ucdavis.edu](mailto:kawakami@ucdavis.edu))
+Teaching Assistant:	David Bauer ([davbauer@ucdavis.edu](mailto:taneuroth@ucdavis.edu)), Yuya Kawakami ([ykawakami@ucdavis.edu](mailto:kawakami@ucdavis.edu))
 
 
 
