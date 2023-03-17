@@ -19,11 +19,11 @@ Instructor: Christopher Nitta (*cjnitta@ucdavis.edu*) <br>Teaching Assistant: Al
 
 | Topic                              | Detail                                                       |
 | ---------------------------------- | ------------------------------------------------------------ |
-| The UNIX Environment               | Review of basic UNIX environment concepts (e.g. processes/job control, file system, utilities, etc.)<br>Shell scripts |
-| Software Engineering & Tools       | Debugging techniques using aids such as gdb/ddd. Review of software engineering tools (e.g. make, git, etc.) <br/>Unit Testing (e.g. Google Test) <br/>Program development using third party libraries. <br/>Other Tools (e.g. IDEs, ssh clients, linters, etc.). |
-| Programming in C                   | Basic syntax differences of C other languages, including Python<br>Data structures: single and multidimensional arrays; character strings; structs Use of system files such as library and “include” files<br>Pointers and dynamic memory allocation<br>Function pointers and inversion of control.<br> |
-| Object-Oriented Programming in C++ | Object-oriented design and implementation, polymorphism, operator overloading, encapsulation, derivation<br>Modular programming: programs composed of multiple C++ files and headers, overview of the<br>compilation/linking sequence<br>Pointer manipulation including dynamic memory allocation<br>Implementation of data structures (e.g. trees, graphs, etc.)<br>Templates and the Standard Template Library<br> Modern C++ (e.g. C++11, C++14, C++17, etc.) |
-| Analysis of Graph Algorithms       | Critical path analysis, depth-first search, shortest path, minimum spanning tree, and network flow |
+| The UNIX Environment               | - Review of basic UNIX environment concepts (e.g. processes/job control, file system, utilities, etc.)<br>- Shell scripts |
+| Software Engineering & Tools       | - Debugging techniques using aids such as gdb/ddd. Review of software engineering tools (e.g. make, git, etc.) <br/>- Unit Testing (e.g. Google Test) <br/>- Program development using third party libraries. <br/>- Other Tools (e.g. IDEs, ssh clients, linters, etc.). |
+| Programming in C                   | - Basic syntax differences of C other languages, including Python<br>- Data structures: single and multidimensional arrays; character strings; structs Use of system files such as library and “include” files<br>- Pointers and dynamic memory allocation<br>- Function pointers and inversion of control.<br> |
+| Object-Oriented Programming in C++ | - Object-oriented design and implementation, polymorphism, operator overloading, encapsulation, derivation<br>- Modular programming: programs composed of multiple C++ files and headers, overview of the<br>- compilation/linking sequence<br>Pointer manipulation including dynamic memory allocation<br>- Implementation of data structures (e.g. trees, graphs, etc.)<br>- Templates and the Standard Template Library<br>-  Modern C++ (e.g. C++11, C++14, C++17, etc.) |
+| Analysis of Graph Algorithms       | - Critical path analysis, depth-first search, shortest path, minimum spanning tree, and network flow |
 
 
 
