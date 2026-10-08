@@ -12,6 +12,8 @@ A series exists only if `posts/<folder>/_series.json` exists. A folder with post
    ```
    - `color`: one of `purple`, `green`, `orange` (the only ones styled in `src/style.css`/`palettes.css`).
    - `symbol`: a short glyph shown on the card. `label`: short uppercase English caption.
+   - `order` (optional): `"newest"` shows the series page newest-first by post date (use for news/log style series). Omit for file-number order (tutorial style). Prev/next links on posts always follow file order.
+   - `draft` (optional): `true` hides the whole series from the deployed build until removed.
    Ask the user for name and description if not given.
 3. A series with no posts renders an empty card, so offer to create the first post with the `new-post` skill.
 4. Series display order on the home page is alphabetical by folder name.
