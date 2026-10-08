@@ -1,1 +1,1 @@
-{ "name": "실험 노트", "desc": "작은 실험을 오래 남기는 기록", "color": "purple", "symbol": "✳", "label": "KEEP EXPERIMENT NOTES" }
+{ "draft": true, "name": "실험 노트", "desc": "작은 실험을 오래 남기는 기록", "color": "purple", "symbol": "✳", "label": "KEEP EXPERIMENT NOTES" }

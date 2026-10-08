@@ -1,8 +1,7 @@
 import './style.css';
 import './palettes.css';
 
-const files = import.meta.glob('../posts/*/*.md', { query: '?raw', import: 'default', eager: true });
-const seriesFiles = import.meta.glob('../posts/*/_series.json', { import: 'default', eager: true });
+import { files, seriesFiles } from 'virtual:posts';
 function parsePost(path, raw) {
   const [, head, body] = raw.replace(/\r\n/g, '\n').match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
   const meta = {};
@@ -23,14 +22,14 @@ function parsePost(path, raw) {
     sections,
   };
 }
+const series = Object.entries(seriesFiles).map(([path, meta]) => ({ id: path.split('/').slice(-2, -1)[0], ...meta }));
 const allPosts = Object.entries(files).map(([path, raw]) => parsePost(path, raw));
 const ids = new Set();
 for (const p of allPosts) {
   if (ids.has(p.id)) throw new Error(`중복된 글 id: ${p.id}`);
   ids.add(p.id);
 }
-const posts = allPosts.filter(p => import.meta.env.DEV || !p.draft);
-const series = Object.entries(seriesFiles).map(([path, meta]) => ({ id: path.split('/').slice(-2, -1)[0], ...meta }));
+const posts = allPosts.filter(p => series.some(s => s.id === p.series));
 const categories = ['전체', ...new Set(posts.map(p => p.category))];
 const icon = (name) => ({search:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/>',arrow:'<path d="M5 12h14m-6-6 6 6-6 6"/>',close:'<path d="m6 6 12 12M18 6 6 18"/>'}[name]);
 const svg = name => `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">${icon(name)}</svg>`;
