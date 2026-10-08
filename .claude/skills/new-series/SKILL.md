@@ -5,7 +5,7 @@ description: Create a new blog series (a folder under posts/ with _series.json).
 
 A series exists only if `posts/<folder>/_series.json` exists. A folder with posts but no `_series.json` breaks the article page.
 
-1. Folder name: the series title exactly as written (Korean and spaces allowed, e.g. `posts/AI 기본기 다지기/`); it becomes the series id (`#series/<folder>`). Check it does not already exist in `posts/`.
+1. Folder name: the English translation of the series title, lowercase with hyphens (e.g. `AI 기본기 다지기` → `posts/ai-fundamentals/`); it becomes the series id (`#series/<folder>`). Check it does not already exist in `posts/`.
 2. Create `posts/<folder>/_series.json`:
    ```json
    { "name": "시리즈 이름", "desc": "한 줄 설명", "color": "purple", "symbol": "{ }", "label": "ENGLISH LABEL" }
