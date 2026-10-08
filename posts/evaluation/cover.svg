@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cover-svg" viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
+<defs><linearGradient id="evaluation-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16365c"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+<linearGradient id="evaluation-sc" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></linearGradient></defs>
+<rect width="400" height="200" fill="url(#evaluation-bg)"/>
+<g fill="#dbeafe"><rect x="290" y="108" width="16" height="42" rx="3" fill-opacity=".5"/><rect x="316" y="84" width="16" height="66" rx="3" fill-opacity=".7"/><rect x="342" y="62" width="16" height="88" rx="3"/></g><g fill="none" stroke="#dbeafe" stroke-width="3"><circle cx="372" cy="56" r="20"/><path d="M386 71l16 16" stroke-linecap="round"/></g>
+<rect width="400" height="200" fill="url(#evaluation-sc)"/>
+</svg>

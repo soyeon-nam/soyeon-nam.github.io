@@ -13,7 +13,6 @@ function posts() {
     resolveId: s => (s === id ? '\0' + id : null),
     load(resolved) {
       if (resolved !== '\0' + id) return;
-      this.addWatchFile(dir);
       const files = {}, seriesFiles = {};
       for (const s of fs.readdirSync(dir, { withFileTypes: true })) {
         if (!s.isDirectory()) continue;
@@ -22,6 +21,8 @@ function posts() {
         this.addWatchFile(sf);
         const meta = JSON.parse(fs.readFileSync(sf, 'utf8'));
         if (isBuild && meta.draft) continue;
+        const cover = path.join(dir, s.name, 'cover.svg');
+        if (fs.existsSync(cover)) { this.addWatchFile(cover); meta.cover = fs.readFileSync(cover, 'utf8'); }
         seriesFiles[`${s.name}/_series.json`] = meta;
         for (const f of fs.readdirSync(path.join(dir, s.name)).filter(f => f.endsWith('.md')).sort()) {
           const p = path.join(dir, s.name, f);

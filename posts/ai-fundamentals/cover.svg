@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cover-svg" viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
+<defs><linearGradient id="ai-fundamentals-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3340"/><stop offset="1" stop-color="#1d7a80"/></linearGradient>
+<linearGradient id="ai-fundamentals-sc" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></linearGradient></defs>
+<rect width="400" height="200" fill="url(#ai-fundamentals-bg)"/>
+<g fill="none" stroke="#9af0e4" stroke-width="1.6" opacity=".9"><path d="M300 150l60-28 60 28-60 28z" fill="#9af0e4" fill-opacity=".18"/><path d="M300 128l60-28 60 28-60 28z" fill="#9af0e4" fill-opacity=".28"/><path d="M300 106l60-28 60 28-60 28z" fill="#9af0e4" fill-opacity=".42"/></g><g fill="#c8fff7"><circle cx="360" cy="40" r="5"/><circle cx="326" cy="62" r="4"/><circle cx="394" cy="62" r="4"/></g><g fill="none" stroke="#c8fff7" stroke-width="1.4" opacity=".8"><path d="M360 40L326 62M360 40L394 62M326 62l34 18 34-18"/></g><g stroke="#9af0e4" stroke-width=".8" opacity=".25"><path d="M0 40h400M0 80h400M0 120h400M0 160h400"/></g>
+<rect width="400" height="200" fill="url(#ai-fundamentals-sc)"/>
+</svg>
