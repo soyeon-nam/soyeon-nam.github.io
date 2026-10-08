@@ -3,7 +3,6 @@ title: 에이전트에게 어떤 맥락을 전달할까
 category: AI Agents
 description: 지시와 작업 상태, 도구의 결과. 컨텍스트를 구성하며 마주하는 선택들을 정리합니다.
 date: 2026-09-28
-series: agents
 art: ts
 tags: [Context, Agent Memory]
 ---

@@ -3,7 +3,6 @@ title: AI 에이전트, 실행 루프부터 이해하기
 category: AI Agents
 description: 계획하고, 도구를 사용하고, 결과를 확인하기까지. 에이전트의 작은 실행 루프를 들여다봅니다.
 date: 2026-10-05
-series: agents
 art: react
 tags: [Agent, Tool Use]
 ---

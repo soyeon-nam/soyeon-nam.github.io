@@ -3,7 +3,6 @@ title: 데이터와 에이전트의 흐름을 관찰하기
 category: Data
 description: 입력에서 결과까지, 어디에서 변화가 생겼는지 따라갈 수 있는 관측 노트를 만듭니다.
 date: 2026-09-15
-series: evaluation
 art: metrics
 tags: [Observability, Tracing]
 ---

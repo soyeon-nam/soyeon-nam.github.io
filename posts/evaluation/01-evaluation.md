@@ -3,7 +3,6 @@ title: AI 에이전트 평가, 무엇을 기록할까
 category: Engineering
 description: 정답 하나를 넘어 실행 과정까지. 반복 가능한 평가를 위한 작은 체크포인트.
 date: 2026-09-24
-series: evaluation
 art: docker
 tags: [Evaluation, Agent]
 ---

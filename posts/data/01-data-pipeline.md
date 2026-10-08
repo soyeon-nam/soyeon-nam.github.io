@@ -3,7 +3,6 @@ title: 데이터 파이프라인의 시작은 좋은 질문
 category: Data
 description: 수집부터 정제와 검증까지, 목적이 분명한 데이터 흐름을 설계하는 과정을 기록합니다.
 date: 2026-10-02
-series: data
 art: api
 tags: [Data Pipeline, Data Quality]
 ---
