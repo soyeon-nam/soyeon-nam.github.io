@@ -26,3 +26,4 @@
 .article-body hr{border:0;border-top:1px solid #e3e8f0;margin:36px 0}
 .table-wrap{overflow-x:auto;margin:20px 0}.article-body table{width:100%;border-collapse:collapse;font-size:14.5px;line-height:1.7}.article-body th,.article-body td{padding:10px 14px;border:1px solid #e3e8f0;text-align:left;color:#4a5668}.article-body th{background:#f7f8fc;color:#2b3340}
 @media(max-width:600px){.article-body ul,.article-body ol{font-size:14px}}
+.art.has-image{background:#fff;border:1px solid #eef0f3;display:block}.art.has-image img{width:100%;height:100%;object-fit:contain;display:block}

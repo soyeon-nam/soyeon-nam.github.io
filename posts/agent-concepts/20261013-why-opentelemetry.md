@@ -3,6 +3,7 @@ title: [Observability] 1. OpenTelemetry는 왜 등장했을까?
 category: AI Agents
 date: 2026-10-13
 art: metrics
+image: opentelemetry.png
 tags: [Observability, OpenTelemetry, Agent, Tracing]
 ---
 AI Agent를 개발할 때 어려운 문제 중 하나는 **최종 결과만으로는 내부에서 어떤 일이 일어났는지 파악하기 어렵다**는 것입니다. 따라서 AI Agent를 안정적으로 개발하고 운영하려면 결과뿐 아니라 **그 결과가 만들어지는 과정 전체를 관측할 수 있어야 합니다.**
