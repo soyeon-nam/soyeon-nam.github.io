@@ -14,3 +14,15 @@
 .series-cover>strong{position:absolute;left:5cqw;right:5cqw;bottom:5cqw;font-size:clamp(11px,7.5cqw,24px);line-height:1.25;font-weight:800;letter-spacing:-.02em;text-shadow:0 1px 8px #0000004d}
 @media(min-width:851px) and (max-width:1099px){.home-grid{grid-template-columns:1fr;gap:50px}aside{display:grid;grid-template-columns:repeat(3,1fr);gap:16px 30px}aside>.section-heading,aside>.aside-desc{grid-column:1/-1}.aside-desc{margin:0 0 8px}.series-card{margin-bottom:5px}.series-art{height:150px}}
 @media(min-width:1100px){aside{grid-column:2;grid-row:1}.articles{grid-column:1;grid-row:1}}
+
+.article-body pre.figure{margin:24px 0;padding:22px 24px;background:#f7f8fc;border:1px solid #edf0f4;border-radius:10px;overflow-x:auto;font-family:'SF Mono',Menlo,Consolas,'Noto Sans KR',monospace;font-size:13px;line-height:1.7;color:#4a5668;white-space:pre}
+.flow{margin:28px 0;display:flex;flex-direction:column;align-items:stretch}.flow-step{display:flex;align-items:center;gap:16px;padding:14px 18px;background:#f7f8fc;border:1px solid #e3e8f0;border-radius:10px}.flow-step i{flex:none;width:26px;height:26px;border-radius:50%;background:var(--accent);color:#fff;font-style:normal;font-size:12px;font-weight:700;display:grid;place-items:center}.flow-step b{display:block;font-size:15px;color:#2b3340}.flow-step span{display:block;font-size:13px;color:#7c8696;margin-top:2px}.flow-arrow{text-align:center;color:var(--accent);font-size:18px;line-height:1.6}
+
+.article-body section{scroll-margin-top:90px}
+.article-body h3{font-size:18px;letter-spacing:-.5px;margin:30px 0 10px;color:#2b3340}
+.article-body ul,.article-body ol{margin:12px 0 18px;padding-left:22px;font-size:16px;line-height:1.9;color:#637084;word-break:keep-all}.article-body li ul{margin:4px 0 6px}
+.article-body strong{color:#2b3340;font-weight:700}.article-body p a,.article-body li a{color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+.article-body code{padding:2px 6px;background:#f1f4f8;border-radius:5px;font-size:.9em}
+.article-body hr{border:0;border-top:1px solid #e3e8f0;margin:36px 0}
+.table-wrap{overflow-x:auto;margin:20px 0}.article-body table{width:100%;border-collapse:collapse;font-size:14.5px;line-height:1.7}.article-body th,.article-body td{padding:10px 14px;border:1px solid #e3e8f0;text-align:left;color:#4a5668}.article-body th{background:#f7f8fc;color:#2b3340}
+@media(max-width:600px){.article-body ul,.article-body ol{font-size:14px}}

@@ -3,11 +3,11 @@ name: new-post
 description: Create a new blog post as a Markdown file in a series folder under posts/. Use when the user wants to write, add, or start a new post/article/draft.
 ---
 
-Create `posts/<series>/NN-<slug>.md`.
+Create `posts/<series>/YYYYMMDD-<slug>.md`.
 
 1. Series: list `posts/*/_series.json`. Ask which series if the user didn't say. If none fits, run the `new-series` skill first. Every post must belong to a series; never create a post outside a series folder.
 2. Slug: lowercase English, hyphens. Must be unique across ALL series (the URL is `#post/<slug>`; the build fails on duplicates).
-3. Number: `NN` is the next two-digit number in that folder (existing max + 1). It sets the order within the series and is stripped from the URL.
+3. Date prefix: `YYYYMMDD` is the post's `date` (today unless told otherwise), e.g. `20261011-intro-ade.md`. It must match the `date:` in the frontmatter. It sets file order within the series (oldest first, which drives prev/next links) and is stripped from the URL. Never use `01-` style numbers; rename any existing non-date file to this format.
 4. Frontmatter, copied from `posts/_template.md.example`. Do not add a `series:` field; the folder is the series. Fill:
    - `title`, `description` (1–2 sentences), `date` (today, YYYY-MM-DD)
    - `category`: reuse an existing one from other posts when possible; the home filter buttons are generated from the set of categories, so a new value adds a button.
