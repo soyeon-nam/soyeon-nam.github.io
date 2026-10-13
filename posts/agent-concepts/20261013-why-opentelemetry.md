@@ -6,17 +6,21 @@ art: metrics
 image: opentelemetry.png
 tags: [Observability, OpenTelemetry, Agent, Tracing]
 ---
+## 목차
+
+1. OpenTelemetry가 등장한 배경
+2. OpenTelemetry는 무엇을 해결하는가?
+3. AI Agent 관측성과의 연결
+
+
+
 AI Agent를 개발할 때 어려운 문제 중 하나는 **최종 결과만으로는 내부에서 어떤 일이 일어났는지 파악하기 어렵다**는 것입니다. 따라서 AI Agent를 안정적으로 개발하고 운영하려면 결과뿐 아니라 **그 결과가 만들어지는 과정 전체를 관측할 수 있어야 합니다.**
 
 이러한 문제는 AI Agent가 등장하기 전부터 복잡한 소프트웨어 시스템에서 존재했습니다. 특히 클라우드와 마이크로서비스가 확산되면서 여러 구성 요소에 걸친 실행 흐름을 추적해야 할 필요성이 커졌습니다.
 
 이러한 문제를 해결하기 위한 공통 기반으로 등장한 기술이 **OpenTelemetry(OTel)**입니다.
 
-## 목차
 
-1. OpenTelemetry가 등장한 배경
-2. OpenTelemetry는 무엇을 해결하는가?
-3. AI Agent 관측성과의 연결
 
 ## 1. OpenTelemetry가 등장한 배경
 
@@ -56,6 +60,8 @@ AI Agent는 하나의 요청을 처리하기 위해 LLM 호출, Tool 실행, 데
 공통 표준이 없다면 사용하는 관측 도구에 맞춰 계측을 구현해야 합니다. 특정 모니터링 제품의 API에 의존하는 경우, 도구를 변경할 때 애플리케이션의 계측 코드까지 수정해야 할 수 있습니다.
 
 OpenTelemetry는 이러한 문제를 해결하기 위해 등장한 오픈소스 관측성 프레임워크입니다.
+
+
 
 ## 2. OpenTelemetry는 무엇을 해결하는가?
 
@@ -104,6 +110,8 @@ Logs / Metrics / Traces
 여기서 주의할 점은 **OpenTelemetry 자체는 모니터링 대시보드나 분석 도구가 아니라는 것**입니다.
 
 OpenTelemetry는 관측 데이터를 생성·수집·전달하는 공통 기반을 제공하며, 데이터를 저장하고 시각화하는 역할은 별도의 관측 백엔드가 담당합니다.
+
+
 
 ## 3. AI Agent 관측성과의 연결
 
