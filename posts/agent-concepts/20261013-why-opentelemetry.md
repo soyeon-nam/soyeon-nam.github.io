@@ -1,5 +1,5 @@
 ---
-title: [AI Agent Observability] 1. OpenTelemetry는 왜 등장했을까?
+title: [Observability] 1. OpenTelemetry는 왜 등장했을까?
 category: AI Agents
 date: 2026-10-13
 art: metrics
