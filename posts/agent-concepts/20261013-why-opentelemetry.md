@@ -1,7 +1,6 @@
 ---
 title: [AI Agent Observability] 1. OpenTelemetry는 왜 등장했을까?
 category: AI Agents
-description: AI 에이전트 관측 가능성의 첫 번째 글. OpenTelemetry가 등장한 배경과 Trace의 필요성을 살펴봅니다.
 date: 2026-10-13
 art: metrics
 tags: [Observability, OpenTelemetry, Agent, Tracing]
